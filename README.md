@@ -16,6 +16,7 @@ Completed labs and assignments from CPSC 221 Data Structures and Algorithms
 - Utilized functors to change individual pixels on PNGs
 <p align="middle">
   <img src="paimages/ex-bfsstripe.gif" width="300" /> 
+  <img src="paimages/ex-dfsstripe.gif" width="300" /> 
 </p>
 
 <!-- ### Programming Assignment 3 ###
