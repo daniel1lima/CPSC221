@@ -3,7 +3,7 @@ Completed labs and assignments from CPSC 221 Data Structures and Algorithms
 
 ### Programming Assignment 1 ###
 - Used 2D linked grids to represent HSLAPixels from a PNG
-- Implemented functionsn to render and carve PNGs
+- Implemented functions to render and carve PNGs
 - Managed dynamic memory in a large program with complex code
 <p align="middle">
   <img src="paimages/pa1-construct.png" width="300" />
@@ -55,7 +55,7 @@ Completed labs and assignments from CPSC 221 Data Structures and Algorithms
 
 ### Lab_Hash ###
 - Utilized hash tables and iterators to discover information from large dictionaries
-- Implemented functions using a seperate chaining hash table
+- Implemented functions using a separate chaining hash table
 - Implemented functions using a linear probing hash table
 
 ### Lab_Heaps ###
